@@ -2,6 +2,7 @@
 *.image
 *.push
 *.log
-.nextlog*
+.nextflow*
+.command*
 test*
 junk*
