@@ -1,0 +1,7 @@
+*.tgz
+*.image
+*.push
+*.log
+.nextlog*
+test*
+junk*
